@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **react,**
+- 💬 Ask me about **react**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
